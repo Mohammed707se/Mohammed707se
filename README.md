@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ███╗   ███╗ ██████╗  █████╗ ███████╗███████╗███╗   ███╗
- ████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔════╝████╗ ████║
- ██╔████╔██║██║   ██║███████║███████╗█████╗  ██╔████╔██║
- ██║╚██╔╝██║██║▄▄ ██║██╔══██║╚════██║██╔══╝  ██║╚██╔╝██║
- ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████║███████╗██║ ╚═╝ ██║
- ╚═╝     ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝
-```
+![Profile Header](./profile_header.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Penetration+Tester+%7C+Data+Scientist+%7C+Software+Engineer;AI+Security+%26+Red+Teaming+%7C+Riyadh%2C+KSA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Penetration+Tester+%7C+Data+Scientist+%7C+Software+Engineer;AI+Security+%26+Red+Teaming+%7C+Riyadh%2C+KSA)](https://git.io/typing-svg)
 
 </div>
 
@@ -87,14 +80,14 @@ class MQasem:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mqasem&show_icons=true&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&icon_color=7F77DD&text_color=4a7a5a&border_color=1a3a2a&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqasem&layout=compact&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&text_color=4a7a5a&border_color=1a3a2a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&icon_color=7F77DD&text_color=4a7a5a&border_color=1a3a2a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&text_color=4a7a5a&border_color=1a3a2a" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mqasem&theme=dark&background=050a0f&border=1a3a2a&ring=00FF88&fire=EF9F27&currStreakLabel=00FF88&sideLabels=4a7a5a&dates=1a4a2a)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=050a0f&border=1a3a2a&ring=00FF88&fire=EF9F27&currStreakLabel=00FF88&sideLabels=4a7a5a&dates=1a4a2a)
 
 </div>
 
@@ -104,7 +97,7 @@ class MQasem:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a0f?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://linkedin.com/in/mqasem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a0f?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://linkedin.com/in/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-050a0f?style=for-the-badge&logo=gmail&logoColor=E24B4A)](mailto:your@email.com)
 
 </div>
