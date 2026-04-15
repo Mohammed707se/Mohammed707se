@@ -12,7 +12,7 @@
 $ whoami
 > Mohammed Qasem — Software Engineer · Data Scientist · Pentester
 > Location  : Riyadh, Saudi Arabia 🇸🇦
-> Company   : HudHud Maps (since Jul 2024)
+> Company   : HudHud Maps
 > Focus     : AI Security · Red Teaming · POI Data Engineering
 > Status    : [████████████░░░] Building...
 ```
@@ -80,14 +80,14 @@ class MQasem:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&icon_color=7F77DD&text_color=4a7a5a&border_color=1a3a2a" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&text_color=4a7a5a&border_color=1a3a2a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed707se&show_icons=true&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&icon_color=7F77DD&text_color=4a7a5a&border_color=1a3a2a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed707se&layout=compact&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&text_color=4a7a5a&border_color=1a3a2a" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=050a0f&border=1a3a2a&ring=00FF88&fire=EF9F27&currStreakLabel=00FF88&sideLabels=4a7a5a&dates=1a4a2a)
+![Streak](https://streak-stats.demolab.com?user=Mohammed707se&theme=dark&background=050a0f&border=1a3a2a&ring=00FF88&fire=EF9F27&currStreakLabel=00FF88&sideLabels=4a7a5a&dates=1a4a2a)
 
 </div>
 
@@ -97,8 +97,7 @@ class MQasem:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a0f?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-050a0f?style=for-the-badge&logo=gmail&logoColor=E24B4A)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a0f?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://linkedin.com/in/mohammedcs)
 
 </div>
 
