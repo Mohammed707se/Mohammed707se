@@ -2,8 +2,6 @@
 
 ![Profile Header](./profile_header.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Penetration+Tester+%7C+Data+Scientist+%7C+Software+Engineer;AI+Security+%26+Red+Teaming+%7C+Riyadh%2C+KSA)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -63,7 +61,7 @@ class MQasem:
     focus_2025  = "AI Security & Red Teaming for AI Systems"
 
     current_ops = {
-        "🔭 building"  : "POI data enrichment pipeline — Makkah & Madinah",
+        "🔭 building"  : "geospatial data pipelines",
         "🛡️ exploring" : "AI red teaming & adversarial ML",
         "⚡ hacking"   : "Web vulnerability assessment & pen testing",
     }
@@ -73,23 +71,6 @@ class MQasem:
         "🌍 languages"  : ["Arabic", "English"],
     }
 ```
-
----
-
-### `// GITHUB STATS`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed707se&show_icons=true&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&icon_color=7F77DD&text_color=4a7a5a&border_color=1a3a2a" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed707se&layout=compact&theme=chartreuse-dark&bg_color=050a0f&title_color=00FF88&text_color=4a7a5a&border_color=1a3a2a" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Mohammed707se&theme=dark&background=050a0f&border=1a3a2a&ring=00FF88&fire=EF9F27&currStreakLabel=00FF88&sideLabels=4a7a5a&dates=1a4a2a)
-
-</div>
 
 ---
 
